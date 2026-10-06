@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="155" viewBox="0 0 1400 155">
+<defs><linearGradient id="x" x1="0" x2="1"><stop stop-color="#EAF6FF"/><stop offset="1" stop-color="#E5F8F2"/></linearGradient></defs>
+<rect width="1400" height="155" rx="24" fill="url(#x)" stroke="#D7E7F5"/>
+<path d="M0 128L104 102l82 15 112-45 96 42 105-31 93 37 125-55 100 48 135-36 110 43 108-30 130 38v27H0z" fill="#D2E9F4" opacity=".55"/>
+<g font-family="Arial,sans-serif"><text x="52" y="54" font-size="25" font-weight="800" fill="#12325A">From security signal → engineering decision → measurable progress.</text><text x="52" y="88" font-size="16" fill="#4D6D88">Assess · Design · Enable · Validate · Measure</text><text x="1348" y="55" text-anchor="end" font-size="15" font-weight="800" letter-spacing="2.2" fill="#0B6CF2">BULWARK ADVISORY</text><text x="1348" y="82" text-anchor="end" font-size="13" fill="#65798C">Remote-first · worldwide</text></g>
+</svg>

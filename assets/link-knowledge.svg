@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="310" height="86" viewBox="0 0 310 86">
+<rect x="1" y="1" width="308" height="84" rx="18" fill="#FFFFFF" stroke="#D7E7F5"/>
+<rect x="14" y="14" width="58" height="58" rx="16" fill="#F2F8FF"/>
+<g fill="none" stroke="#0B6CF2" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M23 24h11c5 0 7 3 7 7v20c-2-4-5-5-9-5h-9zM51 24H40c-2 0-3 .3-4 1M42 31c2-2 4-2 9-2"/></g>
+<text x="86" y="36" font-family="Arial,sans-serif" font-size="13" font-weight="800" letter-spacing="1" fill="#173A67">KNOWLEDGE BASE</text>
+<text x="86" y="58" font-family="Arial,sans-serif" font-size="12.5" fill="#65798C">product-security.expert</text>
+<path d="M276 38h12M283 32l6 6-6 6" fill="none" stroke="#0B6CF2" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

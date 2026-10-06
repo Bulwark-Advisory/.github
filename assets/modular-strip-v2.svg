@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="170" viewBox="0 0 1400 170">
+<rect x="1" y="1" width="1398" height="168" rx="24" fill="#FFFFFF" stroke="#D7E7F5"/>
+<g font-family="Arial,sans-serif">
+<g transform="translate(30 37)"><rect width="76" height="76" rx="22" fill="#F2F8FF" stroke="#D7E7F5"/><circle cx="38" cy="38" r="20" fill="none" stroke="#0B6CF2" stroke-width="3"/><path d="M38 24v15l10 6" fill="none" stroke="#0B6CF2" stroke-width="3" stroke-linecap="round"/></g>
+<text x="126" y="58" font-size="21" font-weight="800" fill="#10254A">15+ YEARS</text><text x="126" y="84" font-size="15" font-weight="700" fill="#365B7C">Cybersecurity background</text><text x="126" y="108" font-size="13.5" fill="#65798C">Product · cloud · engineering</text>
+<line x1="350" y1="29" x2="350" y2="141" stroke="#DCE8F2"/>
+<g transform="translate(380 37)"><rect width="76" height="76" rx="22" fill="#F2F8FF" stroke="#D7E7F5"/><g fill="none" stroke="#0B6CF2" stroke-width="3" stroke-linecap="round"><circle cx="31" cy="31" r="9"/><circle cx="50" cy="35" r="7"/><path d="M17 58c2-10 7-15 14-15s12 5 14 15M44 48c8 0 12 4 14 10"/></g></g>
+<text x="476" y="58" font-size="19" font-weight="800" fill="#10254A">STARTUPS → SCALE-UPS</text><text x="476" y="84" font-size="15" font-weight="700" fill="#365B7C">Primary fit</text><text x="476" y="108" font-size="13.5" fill="#65798C">Lean product &amp; engineering teams</text>
+<line x1="700" y1="29" x2="700" y2="141" stroke="#DCE8F2"/>
+<g transform="translate(730 37)"><rect width="76" height="76" rx="22" fill="#F2F8FF" stroke="#D7E7F5"/><circle cx="38" cy="38" r="22" fill="none" stroke="#0B6CF2" stroke-width="3"/><path d="M16 38h44M38 16c9 9 11 35 0 44M38 16c-9 9-11 35 0 44" fill="none" stroke="#0B6CF2" stroke-width="3"/></g>
+<text x="826" y="58" font-size="19" font-weight="800" fill="#10254A">REMOTE WORLDWIDE</text><text x="826" y="84" font-size="15" font-weight="700" fill="#365B7C">Distributed delivery</text><text x="826" y="108" font-size="13.5" fill="#65798C">Across product-team time zones</text>
+<line x1="1050" y1="29" x2="1050" y2="141" stroke="#DCE8F2"/>
+<g transform="translate(1080 37)"><rect width="76" height="76" rx="22" fill="#F2F8FF" stroke="#D7E7F5"/><path d="M22 57V43M34 57V34M46 57V24M58 57V38" fill="none" stroke="#0B6CF2" stroke-width="3.5" stroke-linecap="round"/></g>
+<text x="1176" y="58" font-size="19" font-weight="800" fill="#10254A">PRACTICAL</text><text x="1176" y="84" font-size="15" font-weight="700" fill="#365B7C">Technical + strategic</text><text x="1176" y="108" font-size="13.5" fill="#65798C">Engineering through leadership</text>
+</g></svg>
